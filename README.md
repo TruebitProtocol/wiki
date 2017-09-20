@@ -1,4 +1,4 @@
-# Design
+# Truebit Roadmap
 
 The current repo will house the design documents, the links to useful resources and other material related to or useful for Truebit.
 
@@ -12,7 +12,7 @@ The current repo will house the design documents, the links to useful resources 
 
 ## Overview
 
-  (https://www.youtube.com/watch?v=QY0OUTaIWIc&t=977s)
+  [![epiccenter-truebit](img/epiccenter.png)](https://www.youtube.com/watch?v=QY0OUTaIWIc&t=977s)
 
 ## Quick Summary
 
@@ -27,6 +27,4 @@ The current repo will house the design documents, the links to useful resources 
 * [Python Off-chain Interpreter](https://github.com/TrueBitFoundation/python-offchain) - DEPRECATED<br/>
 
 ## Resources
-
-
 
