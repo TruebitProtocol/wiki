@@ -5,6 +5,9 @@ The current repo will house the design documents, the links to useful resources 
 ## Table Of Contents
 
 - [Overview](#overview)
+  - [Roles](#roles)
+  - [Components](#components)
+- [Announcements](#annoncements)
 - [Quick Summary](#quick-summary)
 - [Community](#community)
 - [Project Links](#project-links)
@@ -17,6 +20,8 @@ The protocol is enforced by playing an interactive "game". The interactive game 
 Before we see what "playing the game" means lets first look at some definitions:<br/>
 First we'll definge the roles:<br/>
 
+## Announcements
+
 ### Roles
 * Taskgiver: is the miner posting a task that requires verification on whether or not the task was carried out correctly by the Solver.<br/>
 * Solver: is the miners chosen to run the task for a reward.<br/>
@@ -26,7 +31,7 @@ First we'll definge the roles:<br/>
 * Judges(s): are the miners<br/>
 
 ### Components
-* Off-chain Interpreter:<br/>
+* Off-chain Interpreter: is the off-chain truebit [WASM](https://github.com/WebAssembly/) machine that runs a WASM object file and generates merkle proofs of the internal state of the machine.<br/>
 * On-chain Interpreter:<br/>
 * Truebit Contract:<br/>
 * Incentive Layer:<br/>
