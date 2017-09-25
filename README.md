@@ -14,8 +14,19 @@ The current repo will house the design documents, the links to useful resources 
 
 The short version is Truebit is a scalability solution for distributed trustless networks.<br/>
 The protocol is enforced by playing an interactive "game".<br/>
+Before we see what "playing the game" means lets first look at some definitions:<br/>
+First we'll definge the roles:<br/>
+* Taskgiver:<br/>
+* Verifier:<br/>
+* Challenger:<br/>
+* Referees:<br/>
+* Judges:<br/>
 
   [![epiccenter-truebit](img/epiccenter.png)](https://www.youtube.com/watch?v=QY0OUTaIWIc&t=977s)
+
+## Imposed Limitations on the Truebit VM
+* External Calls: <br/>
+* Floating-Point:<br/>
 
 ## Quick Summary
 
