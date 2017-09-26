@@ -57,6 +57,7 @@ First we'll definge the roles:<br/>
 * [Ocaml Off-chain Interpreter](https://github.com/TrueBitFoundation/ocaml-offchain)<br/>
 * [On-chain Interpreter](https://github.com/TrueBitFoundation/webasm-solidity)<br/>
 * [Incentive Layer Contracts](https://github.com/TrueBitFoundation/truebit-contracts)<br/>
+* [Scrypt-Interactive]()<br/>
 * [Python Off-chain Interpreter](https://github.com/TrueBitFoundation/python-offchain) - DEPRECATED<br/>
 
 ## Resources
