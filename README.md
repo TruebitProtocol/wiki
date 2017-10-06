@@ -32,8 +32,8 @@ First we'll definge the roles:<br/>
 
 ### Components
 * Off-chain Interpreter: is the off-chain truebit [WASM](https://github.com/WebAssembly/) machine that runs a WASM object file and generates merkle proofs of the internal state of the machine.<br/>
-* On-chain Interpreter:<br/>
-* Truebit Contract:<br/>
+* On-chain Interpreter: is the WASM interpreter written in Solidity. Same functionality as off-chain interpreter but all computations done on the blockchain.<br/>
+* Truebit Contracts: there are separate contracts for TaskGiver, Solver, and Verifier. Each contract is in charge of the balances for each user. A user can submit a deposit to one of these smart contracts and then use the contracts methods to participate in the TrueBit protocol.<br/>
 * Incentive Layer:<br/>
 * Dispute Resolution Layer:<br/>
 
