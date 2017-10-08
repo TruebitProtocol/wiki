@@ -8,7 +8,7 @@ The current repo will house the design documents, Truebit's roadmap, the links t
   - [Roles](#roles)
   - [Components](#components)
 - [Announcements](#annoncements)
-- [Imposed limitations on The trebit VM](#imposed-limitations)
+- [Imposed Limitations](#imposed-limitations)
 - [Quick Summary](#quick-summary)
 - [Proof of Concept](#proof-of-concept)
 - [Community](#community)
@@ -39,7 +39,7 @@ First we'll definge the roles:<br/>
 
 ## Announcements
 
-## Imposed Limitations on the Truebit VM
+## Imposed Limitations
 * External Calls: external calls are a source of non-deterministic execution. Truebit needs the task to be deterministic so that the solver and verifier can both run the exact same internal states for the same task. For an example of how external calls yield different internal states, think of the pid of the child process returned by the `fork` system call or a random generator function. It could be argued that the non-determinism introduced by the external calls can be "local" and does not affect the final outcome of the task and hence is mitigatable to some extent. For the proof of concept however, Truebit will not try to tackle this issue.<br/>
 * Floating-Point: WASM's specification allows some nondeterminism for floating-point arithmetic. The solver originally runs the task using any WASM build toolchain. Needless to say we cannot gurantee the toolchains used will behave the same when it comes to the non-determinism in floating-point arithmetic.<br/>
 
