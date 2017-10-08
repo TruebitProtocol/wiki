@@ -14,6 +14,7 @@ The current repo will house the design documents, Truebit's roadmap, the links t
 - [Community](#community)
 - [Project Links](#project-links)
 - [Resources](#resources)
+- [Contribution Guidelines](#contribution-guidelines)
 
 ## Overview
 
@@ -40,7 +41,7 @@ First we'll definge the roles:<br/>
 ## Announcements
 
 ## Imposed Limitations
-* External Calls: external calls are a source of non-deterministic execution. Truebit needs the task to be deterministic so that the solver and verifier can both run the exact same internal states for the same task. For an example of how external calls yield different internal states, think of the pid of the child process returned by the `fork` system call or a random generator function. It could be argued that the non-determinism introduced by the external calls can be "local" and does not affect the final outcome of the task and hence is mitigatable to some extent. For the proof of concept however, Truebit will not try to tackle this issue.<br/>
+* External Calls: external calls are a source of non-deterministic execution. Truebit needs the task to be deterministic so that the solver and verifier can both run the exact same internal states for the same task. For an example of how external calls yield different internal states, think of the pid of the child process returned by the `fork` system call or a random generator function. It could be argued that the non-determinism introduced by the external calls can be "local" and does not affect the final state(or the part of it that counts). The rise of formal specification  might have something to say about this issue but for the proof of concept implementation of Truebit, will not try to tackle this issue.<br/>
 * Floating-Point: WASM's specification allows some nondeterminism for floating-point arithmetic. The solver originally runs the task using any WASM build toolchain. Needless to say we cannot gurantee the toolchains used will behave the same when it comes to the non-determinism in floating-point arithmetic.<br/>
 
 ## Quick Summary
@@ -63,3 +64,5 @@ First we'll definge the roles:<br/>
 
 ## Resources
 * [Truebit Whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)
+
+## Contribution Guidelines
