@@ -38,6 +38,10 @@ First we'll definge the roles:<br/>
 * Dispute Resolution Layer: At the heart of TrueBit’s protocol lies an interactive “verification game” which decides whether or not a contested computational task was performed correctly. The verification game proceeds through a series of rounds, where each round recursively checks a smaller and smaller subset of the computation. A trusted network, in our case the Ethereum platform , merely enforces the rules of the game and therefore does not bear the bulk of the verification burden.<br/>
 * Incentive Layer: The economics behind TrueBit are similar to cloud services. Alice pays Amazon for computing power. TrueBit allows Alice, the task giver, to pay anyone on the network like Bob. In order to ensure Bob, the solver, actually solves the task correctly. Bob allows for his solution to be challenged by a Verifier. Since the probability of actually finding an error is low, TrueBit's incentive layer offers bug bounties and provides the expectation that there will be bugs to find. TrueBit randomly forces a Solver to submit an incorrect solution to be checked by verifiers. If a verifier finds that Bob submitted an incorrect solution they will be compensated while Bob will be punished.<br/>
 
+### The Incentive Layer
+
+This layer of the protocol incentivizes Task Givers, Solvers, Verifiers, Challengers, Referees, and Judges to work together. Details are available on [the wiki](https://github.com/TrueBitFoundation/Developer-Resources/wiki/Incentive-Layer-%E2%80%93-Details).
+
 ## Announcements
 
 ## Imposed Limitations
