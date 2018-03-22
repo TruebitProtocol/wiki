@@ -16,11 +16,6 @@ This page is meant to be a central and convenient way to get to the information 
 - [Resources](#resources)
 - [Contribution Guidelines](#contribution-guidelines)
 
-## Resources
-* [Truebit Official Website](https://truebit.io/)
-* [Truebit Whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)
-* [Medium](https://medium.com/truebit)
-
 ## Community
 * [Twitter](https://twitter.com/truebitprotocol)
 * [Slack](https://truebit.slack.com/messages/C5G74SV6V/)<br/>
