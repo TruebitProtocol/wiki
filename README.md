@@ -4,17 +4,9 @@ This page is meant to be a central and convenient way to get to the information 
 
 ## Table Of Contents
 
-- [Getting Started](#getting-started)
-- [Overview](#overview)
-- [Incentive Layer](#overview)
-- [Announcements](#incentive-layer)
-- [Imposed Limitations](#imposed-limitations)
-- [Quick Summary](#quick-summary)
-- [Proof of Concept](#proof-of-concept)
-- [Community](#community)
-- [Project Links](#project-links)
-- [Resources](#resources)
-- [Contribution Guidelines](#contribution-guidelines)
+- [Getting Started](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/GettingStarted.md)
+- [Overview](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/Overview.md)
+- [Incentive Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/IncentiveLayer.md)
 
 ## Community
 * [Twitter](https://twitter.com/truebitprotocol)
@@ -22,6 +14,7 @@ This page is meant to be a central and convenient way to get to the information 
 * [Reddit](https://www.youtube.com/redirect?redir_token=cWQgq0FMKvmnIJFWyAc8msETA0V8MTUwNTk5ODI3MkAxNTA1OTExODcy&event=desc&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftruebit%2F)<br/>
 
 ## Media
+* [TrueBit's Approach to Scaling Ethereum at ScalingNOW!](https://www.youtube.com/watch?v=D592MR_1FyU)
 * [Epicenter Podcast: Jason Teutsch & Christian Reitwiessner: TrueBit, Scalable Off-Chain Computations for Ethereum](https://www.youtube.com/watch?v=QY0OUTaIWIc&t=977s)
 * [Introducing the TrueBit Virtual Machine Devcon 3](https://www.youtube.com/watch?v=kwe_C_ei0hQ)
 * [Truebit - Trying to Fool a Blockchain - Dr Christian Reitwiessner Devcon 2](https://www.youtube.com/watch?v=5yiotumm99Q)
