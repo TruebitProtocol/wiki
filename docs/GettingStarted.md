@@ -55,5 +55,4 @@ Not all parts of the Truebit protocol are set in stone. If you have an idea on h
 Here are some links for relevant resources related to working on the protocol:
 
 * [Truebit Whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)
-* [Truebit Technical Summary](https://medium.com/@sinahab/f51d1726798f)
 * [Token Mechanics Ideas](https://medium.com/truebit/a-token-based-roadmap-to-trustless-computation-2264e80e82bd)

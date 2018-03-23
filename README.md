@@ -7,6 +7,7 @@ This page is meant to be a central and convenient way to get to the information 
 - [Getting Started](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/GettingStarted.md)
 - [Overview](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/Overview.md)
 - [Incentive Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/IncentiveLayer.md)
+- [WASM](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM.md)
 
 ## Community
 * [Twitter](https://twitter.com/truebitprotocol)
