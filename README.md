@@ -10,8 +10,8 @@ This page is meant to be a central and convenient way to get to the information 
 - [WASM](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM.md)
 
 ## Community
+* [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
 * [Twitter](https://twitter.com/truebitprotocol)
-* [Slack](https://truebit.slack.com/messages/C5G74SV6V/)<br/>
 * [Reddit](https://www.youtube.com/redirect?redir_token=cWQgq0FMKvmnIJFWyAc8msETA0V8MTUwNTk5ODI3MkAxNTA1OTExODcy&event=desc&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftruebit%2F)<br/>
 
 ## Media
