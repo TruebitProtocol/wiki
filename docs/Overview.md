@@ -1,5 +1,7 @@
 ## Overview
 
+For a great technical summary of the protocol go [here](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f)
+
 The short version is Truebit is an incentivized scalability solution for distributed trustless networks.<br/>
 The protocol is enforced by playing an interactive "game". The interactive game involes certain roles and pieces of software that comproise the truebit protocol.<br/>
 Before we see what "playing the game" means lets first look at some definitions:<br/>
