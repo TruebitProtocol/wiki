@@ -4,12 +4,12 @@ This page is meant to be a central and convenient way to get to the information 
 
 ## Documentation
 
-- [Explain Like I'm 5](https://github.com/TrueBitFoundation/DeveloperResources/blob/master/docs/ELI5.md)
+- [Explain Like I'm 5](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/ELI5.md)
 - [Getting Started (Technical) ](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/GettingStarted.md)
 - [Incentive Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/IncentiveLayer.md)
 - [Dispute Resolution Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/DisputeResolutionLayer.md)
 - [WASM](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/README.md)
-  - [Tutoral](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/Tutoral.md)
+  - [Tutoral](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/Tutorial.md)
   - [webasm-solidity Overview](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/WASMSolidityOverview.md)
   - [Truebit VM Architecture](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/TruebitVMArchitecture.md)
   - [JIT](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/JIT.md)
