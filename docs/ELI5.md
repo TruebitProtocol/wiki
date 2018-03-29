@@ -1,4 +1,4 @@
-## Overview
+## Explain Like I'm 5
 
 For a great technical summary of the protocol go [here](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f)
 
