@@ -11,7 +11,7 @@ Truebit is still in early stages of development and does not have a working prod
 You can mess with our Scrypt Verifier system we built for the Doge-Ethereum bridge.
 * [scrypt-interactive](https://github.com/TrueBitFoundation/scrypt-interactive)
 
-Or you can use our prototype WASM Interpreter by following this [tutorial](https://github.com/TrueBitFoundation/emscripten-module-wrapper/wiki/Tutorial)
+Or you can use our prototype WASM Interpreter by following this [tutorial](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/Tutorial.md)
 
 # Working on the Code
 
