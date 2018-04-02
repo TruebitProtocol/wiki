@@ -8,7 +8,6 @@ This page is meant to be a central and convenient way to get to the information 
 - [Getting Started (Technical) ](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/GettingStarted.md)
 - [Incentive Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/IncentiveLayer.md)
 - [Dispute Resolution Layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/DisputeResolutionLayer.md)
-- [Open Problems](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/open-problems.md)
 - [WASM](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/README.md)
   - [Tutoral](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/Tutorial.md)
   - [webasm-solidity Overview](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/WASMSolidityOverview.md)
@@ -16,6 +15,10 @@ This page is meant to be a central and convenient way to get to the information 
   - [JIT](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/JIT.md)
 - [File System](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/FileSystem/README.md)
   - [Data Availability Problem](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/FileSystem/DataAvailabilityProblem.md)
+
+## Open Problems
+
+Find are open problems [here](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/open-problems.md)
 
 ## Community
 * [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
