@@ -19,7 +19,7 @@ The short version is Truebit is an incentivized scalability solution for distrib
 5. Verification Game - If there is a challenge, then a verification game is played to determine if the solution is correct or not.
 6. Task Finalized - If there was no challenge, or all of the verification games have been resolved, then the task is finalized.
 
-If you want a more in depth look at the life cycle of a task take a look at the [incentive layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/IncentiveLayer.md). For now we will give a summary of the different states of the task. 
+If you want a more in depth look at the life cycle of a task take a look at the [incentive layer](https://github.com/TrueBitFoundation/wiki/blob/master/docs/IncentiveLayer.md). For now we will give a summary of the different states of the task. 
 
 ## Verification Game Life Cycle
 
@@ -27,4 +27,4 @@ If you want a more in depth look at the life cycle of a task take a look at the 
 2. Query/Response - The Verifier queries the solver for different steps (uses binary search scheme to choose which steps). The Solver responds to these steps with hashes of the internal VM state.
 3. Step Verification - Once the binary search narrows down the computation to two steps it then runs the state transition on chain. If the result of that computation is what the Solver originally stated, then the Solver will win. Otherwise, the Verifier wins.
 
-If you want a more in depth analysis of the Verification Game go to the [dispute resolution layer](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/DisputeResolutionLayer.md)
+If you want a more in depth analysis of the Verification Game go to the [dispute resolution layer](https://github.com/TrueBitFoundation/wiki/blob/master/docs/DisputeResolutionLayer.md)

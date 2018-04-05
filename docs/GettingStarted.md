@@ -2,7 +2,7 @@
 
 Truebit has been and always will be an open source project. We welcome collaboration and want to build a strong community with developers all around the world! If you want to get involved, but don't know how, you've come to the right place!
 
-This page is meant for user's getting started with the codebase. If you want a high level overview of the protocol go [here](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/Overview.md)
+This page is meant for user's getting started with the codebase. If you want a high level overview of the protocol go [here](https://github.com/TrueBitFoundation/wiki/blob/master/docs/Overview.md)
 
 # Using the Code
 
@@ -11,7 +11,7 @@ Truebit is still in early stages of development and does not have a working prod
 You can mess with our Scrypt Verifier system we built for the Doge-Ethereum bridge.
 * [scrypt-interactive](https://github.com/TrueBitFoundation/scrypt-interactive)
 
-Or you can use our prototype WASM Interpreter by following this [tutorial](https://github.com/TrueBitFoundation/Developer-Resources/blob/master/docs/WASM/Tutorial.md)
+Or you can use our prototype WASM Interpreter by following this [tutorial](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/Tutorial.md)
 
 # Working on the Code
 
