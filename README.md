@@ -1,4 +1,4 @@
-# Truebit Developer Resources
+# Truebit Wiki
 
 This page is meant to be a central and convenient way to get to the information you are looking for about Truebit.
 
