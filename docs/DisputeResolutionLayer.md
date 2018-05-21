@@ -11,6 +11,7 @@ A verification game is created and the data is stored in a Game struct. The inpu
 2. Query/Response session
 
 Verifier queries steps of the computation from the Solver. The choice of the steps is most optimally done as a binary search. Query/Response continues until it has been narrowed down to two consecutive states. 
+
 3. Perform Final Verification
 
 The Solver agrees on the lower step, and has already committed to what the output of the next step is supposed to look like. At this point a Solver can submit the state for the lower and higher steps, as well as a merkle proof that the instruction for the state transition is a valid instruction in the original program. If everything checks out the Solver wins and the Verify loses. 
