@@ -25,9 +25,7 @@ Control stack frames are complex.
 Stack frames: perhaps the types are unnecessary at runtime.
 Labels have to be looked up here.
 
-## Details
-
-Probably have to forbid WASM grow, convert them to nops.
+Memory and stack handling are abstracted, so it is possible to use this to generate the proofs quite easily.
 
 ## Initialization
 
@@ -44,6 +42,17 @@ Floating point values are not needed so everything should be binary zero.
 
 Initializing func body labels.
 
+## Instructions
+
+When calling a function, the arguments are copied into another stack. This will require several steps.
+ * Perhaps copying can be avoided, just access these variables from previous stack.
+
+Branching: many frames can be discarded, perhaps these would have to be separate instructions.
+ * Seems like they do nothing much, so can probably just be implemented by updating the stack pointer
+
+br_table: large instruction.
+ * Perhaps there could be initialized a special table for handling these.
+
 ## Things to keep in mind
 
 There is some redundant data that wasmi keeps track of:
@@ -54,4 +63,7 @@ There is some redundant data that wasmi keeps track of:
 These can be ignored when converting to merkle trees. But we need to check out how they are used in the interpreter steps.
 
 Copy memory: hopefully not used in op codes.
+
+Probably have to forbid WASM grow, convert them to nops.
+
 
