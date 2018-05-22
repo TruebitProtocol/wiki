@@ -18,7 +18,7 @@ Structure of the stack:
  * So there is on stack per function
  * Call frames also have the PC
 
-Each function context has its own block stack and PC.
+Each function context has its own block stack (control stack) and PC.
 If types are needed for initial values, also need a preprocessing step for them.
 
 Control stack frames are complex.
@@ -39,6 +39,7 @@ Probably need to have different kind of signature for more efficient runtime che
 
 Locals: there has to be some kind of upper limit, all are initialized to 0.
 Floating point values are not needed so everything should be binary zero.
+But the types of the local variables would still have  to be implemented.
 
 Initializing func body labels.
 
@@ -60,7 +61,7 @@ There is some redundant data that wasmi keeps track of:
 * weak pointers
 * pointers back to stack
 
-These can be ignored when converting to merkle trees. But we need to check out how they are used in the interpreter steps.
+These can be ignored when converting to merkle trees.
 
 Copy memory: hopefully not used in op codes.
 
