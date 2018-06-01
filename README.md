@@ -24,7 +24,7 @@ Find are open problems [here](https://github.com/TrueBitFoundation/wiki/blob/mas
 ## Community
 * [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
 * [Twitter](https://twitter.com/truebitprotocol)
-* [Reddit](https://www.youtube.com/redirect?redir_token=cWQgq0FMKvmnIJFWyAc8msETA0V8MTUwNTk5ODI3MkAxNTA1OTExODcy&event=desc&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftruebit%2F)<br/>
+* [Reddit](https://www.reddit.com/r/truebit)<br/>
 
 ## Media
 * [TrueBit's Approach to Scaling Ethereum at ScalingNOW!](https://www.youtube.com/watch?v=D592MR_1FyU)
