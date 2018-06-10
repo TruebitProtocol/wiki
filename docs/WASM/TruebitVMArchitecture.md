@@ -47,7 +47,7 @@ The basic difference between off-chain and on-chain interpreters is that off-cha
 
 Here is a simplified memory model for off-chain interpreter:
 ```
-contract Onchain {
+contract Offchain {
   uint pc;
   uint reg1;
   uint opcode;
