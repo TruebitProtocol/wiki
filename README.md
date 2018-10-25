@@ -5,21 +5,15 @@ This page is meant to be a central and convenient way to get to the information 
 ## Documentation
 
 - [Explain Like I'm 5](https://github.com/TrueBitFoundation/wiki/blob/master/docs/ELI5.md)
-- [Getting Started (Technical) ](https://github.com/TrueBitFoundation/wiki/blob/master/docs/GettingStarted.md)
 - [Incentive Layer](https://github.com/TrueBitFoundation/wiki/blob/master/docs/IncentiveLayer.md)
 - [Dispute Resolution Layer](https://github.com/TrueBitFoundation/wiki/blob/master/docs/DisputeResolutionLayer.md)
 - [The Truebit virtual machine spec](https://github.com/TrueBitFoundation/wiki/blob/master/docs/vm_spec.md)
 - [WASM](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/README.md)
-  - [Tutorial](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/Tutorial.md)
-  - [webasm-solidity Overview](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/WASMSolidityOverview.md)
+  - [WASM Interpreter in Solidity Overview](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/WASMSolidityOverview.md)
   - [Truebit VM Architecture](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/TruebitVMArchitecture.md)
   - [JIT](https://github.com/TrueBitFoundation/wiki/blob/master/docs/WASM/JIT.md)
 - [File System](https://github.com/TrueBitFoundation/wiki/blob/master/docs/FileSystem/README.md)
   - [Data Availability Problem](https://github.com/TrueBitFoundation/wiki/blob/master/docs/FileSystem/DataAvailabilityProblem.md)
-
-## Open Problems
-
-Find are open problems [here](https://github.com/TrueBitFoundation/wiki/blob/master/open-problems.md)
 
 ## Community
 * [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
