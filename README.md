@@ -15,7 +15,7 @@ This page is meant to be a central and convenient way to get to the information 
 * [Medium](https://medium.com/truebit)
 * [Facebook](https://www.facebook.com/TruebitProtocol/)
 * [Reddit](https://www.reddit.com/r/truebit)
-* [YouTube](https://www.youtube.com/channel/UCh3pMQyuXxb2w8zcdxKI-Bg
+* [YouTube](https://www.youtube.com/channel/UCh3pMQyuXxb2w8zcdxKI-Bg)
 
 <br/>
 
