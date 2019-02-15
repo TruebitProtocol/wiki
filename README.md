@@ -19,7 +19,7 @@ This page is meant to be a central and convenient way to get to the information 
 
 <br/>
 
-## Documentation (depreicated)
+## Documentation
 
 - [Explain Like I'm 5](https://github.com/TrueBitFoundation/wiki/blob/master/docs/ELI5.md)
 - [Incentive Layer](https://github.com/TrueBitFoundation/wiki/blob/master/docs/IncentiveLayer.md)
