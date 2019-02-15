@@ -5,16 +5,24 @@ This page is meant to be a central and convenient way to get to the information 
 ## Quick start links
 
 Developing (and mining) with Truebit: An Overview
+
 https://medium.com/truebit/developing-with-truebit-an-overview-86a2e3565e22
 
+
 Issuing Tasks: The Truebit Toolchain
+
 https://medium.com/truebit/truebit-toolchain-transmute-4984928364a7
+
 https://medium.com/truebit/writing-a-truebit-task-in-rust-6d96f2ee0a4b
 
+
 Using the Truebit filesystem
+
 https://medium.com/truebit/using-the-truebit-filesystem-f6a5d4ac9604
 
+
 Just-in-time compiler
+
 https://medium.com/truebit/jit-for-truebit-e5299afc72d8
 
 
