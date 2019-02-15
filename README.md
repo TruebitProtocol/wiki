@@ -4,27 +4,13 @@ This page is meant to be a central and convenient way to get to the information 
 
 ## Quick start links
 
-Developing (and mining) with Truebit: An Overview
+[Developing (and mining) with Truebit: An Overview](https://medium.com/truebit/developing-with-truebit-an-overview-86a2e3565e22)
 
-https://medium.com/truebit/developing-with-truebit-an-overview-86a2e3565e22
+[Issuing Tasks: The Truebit Toolchain](https://medium.com/truebit/truebit-toolchain-transmute-4984928364a7)[with Rust](https://medium.com/truebit/writing-a-truebit-task-in-rust-6d96f2ee0a4b)
 
+[Using the Truebit filesystem](https://medium.com/truebit/using-the-truebit-filesystem-f6a5d4ac9604)
 
-Issuing Tasks: The Truebit Toolchain
-
-https://medium.com/truebit/truebit-toolchain-transmute-4984928364a7
-
-https://medium.com/truebit/writing-a-truebit-task-in-rust-6d96f2ee0a4b
-
-
-Using the Truebit filesystem
-
-https://medium.com/truebit/using-the-truebit-filesystem-f6a5d4ac9604
-
-
-Just-in-time compiler
-
-https://medium.com/truebit/jit-for-truebit-e5299afc72d8
-
+[Just-in-time compiler](https://medium.com/truebit/jit-for-truebit-e5299afc72d8)
 
 ## Community 
 * [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
@@ -49,7 +35,7 @@ https://medium.com/truebit/jit-for-truebit-e5299afc72d8
 - [File System](https://github.com/TrueBitFoundation/wiki/blob/master/docs/FileSystem/README.md)
   - [Data Availability Problem](https://github.com/TrueBitFoundation/wiki/blob/master/docs/FileSystem/DataAvailabilityProblem.md)
 
-## Media (depreciated)
+## Media (legacy)
 * [TrueBit's Approach to Scaling Ethereum at ScalingNOW!](https://www.youtube.com/watch?v=D592MR_1FyU)
 * [Epicenter Podcast: Jason Teutsch & Christian Reitwiessner: TrueBit, Scalable Off-Chain Computations for Ethereum](https://www.youtube.com/watch?v=QY0OUTaIWIc&t=977s)
 * [Introducing the TrueBit Virtual Machine Devcon 3](https://www.youtube.com/watch?v=kwe_C_ei0hQ)
