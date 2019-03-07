@@ -1,6 +1,6 @@
 # Dispute Resolution Overview
 
-The point of the Dispute Resolution Layer is to provide general purpose tools around building verification games. Verification games are at the very heart of the Truebit protocol. Anytime there is a dispute there between the parties involved in the Truebit system, a verification game is be played to determine fraud. These games can be verifying different things like WASM programs, Scrypt hashes, Merkle Proofs, etc. Howeverm, in most cases the behavior is very similar across different types of games. There are really three main pieces:
+The point of the Dispute Resolution Layer is to provide general purpose tools around building verification games. Verification games are at the very heart of the Truebit protocol. Anytime there is a dispute there between the parties involved in the Truebit system, a verification game is be played to determine fraud. These games can be verifying different things like WASM programs, Scrypt hashes, Merkle Proofs, etc. However, in most cases the behavior is very similar across different types of games. There are really three main pieces:
 
 1. Initializing a new game
 
