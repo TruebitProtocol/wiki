@@ -9,7 +9,7 @@ This page is meant to be a central and convenient way to get to the information 
 * [Just-in-time compiler](https://medium.com/truebit/jit-for-truebit-e5299afc72d8)
 
 ## Community 
-* [Gitter](https://gitter.im/TrueBitFoundation/Lobby)
+* [Gitter](https://gitter.im/TruebitProtocol/community)
 * [Twitter](https://twitter.com/truebitprotocol)
 * [Medium](https://medium.com/truebit)
 * [Facebook](https://www.facebook.com/TruebitProtocol/)
